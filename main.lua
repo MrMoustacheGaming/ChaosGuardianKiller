@@ -1,3 +1,5 @@
+Salut tout le monde c'est Fuze !!! -Moustache
+
 local component = require("component")
 local computer = require("computer")
 local sides = require("sides")
